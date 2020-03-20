@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+}
+
+body{
+    background-color:black;
+    font-family: Lucida Sans;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-color: crimson;
+    color: blanchedalmond;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    background-color: chartreuse;
+}
+h2{
+    font-family: 'Lobster', cursive;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    background-color: chartreuse;
+   
+}
